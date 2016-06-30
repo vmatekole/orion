@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'orionjs:s3',
+  name: 'vmatekole:orionjs:s3',
   summary: 'S3 storage for orion:filesystem',
   version: '1.8.0',
   git: 'https://github.com/orionjs/s3'
