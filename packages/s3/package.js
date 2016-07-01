@@ -13,7 +13,7 @@ Package.onUse(function(api) {
     'orionjs:core@1.8.0',
     'orionjs:filesystem@1.8.0',
     'orionjs:config@1.8.0',
-    'lepozepo:s3@5.1.1'
+    'lepozepo:s3@5.2.1'
     ]);
 
   api.addFiles([
